@@ -2,7 +2,7 @@
 
 A handmade crafts website showcasing unique, creative, and thoughtfully crafted products made with love and a personal touch.
 
-## 🌐 Live Demo=
+## 🌐 Live Demo
 
 [Visit Timeless Treasures](https://timeless-trea.netlify.app/)
 
